@@ -5,9 +5,9 @@ This project involves analyzing simulated hospital data related to patient admis
 ### Project Overview
 In this assessment, you will work with three main datasets:
 
-admissions_surg.csv: Contains information about patients admitted to the surgical department.
-admissions_med.csv: Contains information about patients admitted to the medical department.
-imaging.csv: Provides medical imaging data results collected during patient admissions.
+- admissions_surg.csv: Contains information about patients admitted to the surgical department.
+- admissions_med.csv: Contains information about patients admitted to the medical department.
+- imaging.csv: Provides medical imaging data results collected during patient admissions.
 ### Tasks Covered
 Data De-identification
 
